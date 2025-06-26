@@ -1,5 +1,6 @@
 # TinDog Project
-
+This project was built during my learning web development through a course by Dr. Angela Yu.
+This ReadMe file was created by her for helping students in building this project.
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
 https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
 
